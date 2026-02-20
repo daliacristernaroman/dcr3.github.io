@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Linguistics, at the University of Alberta, and a member of the Centre for Comparative Psycholinguistics and the Heritage Language Lab.
+I am a PhD candidate in the Department of Linguistics, at the University of Alberta, and a member of the [Centre for Comparative Psycholinguistics] (https://sites.google.com/ualberta.ca/ccp/home) and the Heritage Language Lab.
 
 My research focuses mainly on the role of information structure and implicit causality in co-reference processing in English and Spanish.
 
