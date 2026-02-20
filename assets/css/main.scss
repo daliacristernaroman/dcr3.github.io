@@ -45,3 +45,22 @@
 .author__avatar img {
   border-radius: 15px;
 }
+
+---
+---
+
+@import "minimal-mistakes";
+
+/* Lighter footer color for air theme */
+.page__footer {
+  background-color: #8fd3d8;
+}
+
+.page__footer,
+.page__footer a {
+  color: #ffffff;
+}
+
+.page__footer a:hover {
+  color: #f0f0f0;
+}
