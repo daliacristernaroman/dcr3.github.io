@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'In submission'
-date: 
+date: 2026
 venue: 
 slidesurl:
 paperurl: 
