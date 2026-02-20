@@ -26,11 +26,11 @@ author:
   avatar           : "dalia.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "dcrister@ualberta.ca"
   location         : "Edmonton, AB."
   employer         : "University of Alberta"
   uri              : # URL
-  email            : "dcrister@ualberta.ca" 
+  email            : #
 
   # Academic websites
   academia         : # URL
