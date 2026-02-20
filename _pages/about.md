@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Dalia Cristerna-Román"
 author_profile: true
 redirect_from: 
   - /about/
